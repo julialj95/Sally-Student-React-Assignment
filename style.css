@@ -1,0 +1,15 @@
+section {
+  border: solid 1px black;
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+#img {
+  margin: auto;
+  width: 20%;
+}
